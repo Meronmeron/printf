@@ -9,5 +9,5 @@ Code must follow the Betty style Global variables are not allowed Authorized fun
 
 
 
-Contributors
-Meron Abdo:Mahlet zerihun
+Contributors:
+Meron Abdo, Mahlet zerihun
